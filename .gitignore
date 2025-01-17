@@ -10,3 +10,6 @@ crash.log
 
 # Local .terraform directories
 .terraform/*
+
+#ds_Store
+.DS_Store
