@@ -1,0 +1,9 @@
+tags = {
+    owner = "ME"
+    projectName "my project"
+}
+
+environment = {
+    project_name = "privateAIApp"
+    location = "EastUS"
+}
